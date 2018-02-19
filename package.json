@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bartnic1/request-Package-Client/issues"
   },
-  "homepage": "https://github.com/bartnic1/request-Package-Client#readme"
+  "homepage": "https://github.com/bartnic1/request-Package-Client#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
